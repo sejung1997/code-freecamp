@@ -1,0 +1,59 @@
+body {
+  width:400px;
+  border: 1.5px solid grey;
+  border-radius: 4px;
+}
+.inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+} 
+.timer {
+
+}
+.phone {
+  margin-bottom: 20px;
+}
+.input {
+  width: 250px;
+  height: 25px;
+  border-radius: 4px;
+  border: 1px solid grey;
+}
+#phone2, #phone3 {
+  width: 70px;
+  height: 30px;
+}
+#phone1 {
+  width: 58px;
+  height: 30px;
+}
+#authNum, #time {
+  margin-right: 30px;
+  font-size: 16px;
+}
+#btn__transmit, #btn__complete {
+  width: 150px;
+  height: 30px;
+}
+#btn__transmit {
+  margin-bottom: 20px;
+
+}
+.district {
+  width: 280px;
+  height: 30px;
+  margin-bottom: 20px;
+}
+.line {
+  border-top: 1px solid black;
+  width: 280px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+#signin {
+  width: 280px;
+  height: 30px;
+  margin-bottom: 20px;
+}
